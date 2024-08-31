@@ -1,0 +1,12 @@
+C:\Users\offic\OneDrive\Escritorio\ProyectoConexionBD\BDcrud\DataCustomers\bin\Debug\DataCustomers.dll
+C:\Users\offic\OneDrive\Escritorio\ProyectoConexionBD\BDcrud\DataCustomers\bin\Debug\DataCustomers.pdb
+C:\Users\offic\OneDrive\Escritorio\ProyectoConexionBD\BDcrud\DataCustomers\obj\Debug\DataCustomers.csproj.AssemblyReference.cache
+C:\Users\offic\OneDrive\Escritorio\ProyectoConexionBD\BDcrud\DataCustomers\obj\Debug\DataCustomers.csproj.CoreCompileInputs.cache
+C:\Users\offic\OneDrive\Escritorio\ProyectoConexionBD\BDcrud\DataCustomers\obj\Debug\DataCustomers.dll
+C:\Users\offic\OneDrive\Escritorio\ProyectoConexionBD\BDcrud\DataCustomers\obj\Debug\DataCustomers.pdb
+C:\Users\gamer\OneDrive\Escritorio\EjercicioCRUD-main\BDcrud\DataCustomers\bin\Debug\DataCustomers.dll
+C:\Users\gamer\OneDrive\Escritorio\EjercicioCRUD-main\BDcrud\DataCustomers\bin\Debug\DataCustomers.pdb
+C:\Users\gamer\OneDrive\Escritorio\EjercicioCRUD-main\BDcrud\DataCustomers\obj\Debug\DataCustomers.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Escritorio\EjercicioCRUD-main\BDcrud\DataCustomers\obj\Debug\DataCustomers.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Escritorio\EjercicioCRUD-main\BDcrud\DataCustomers\obj\Debug\DataCustomers.dll
+C:\Users\gamer\OneDrive\Escritorio\EjercicioCRUD-main\BDcrud\DataCustomers\obj\Debug\DataCustomers.pdb
